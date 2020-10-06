@@ -7,12 +7,12 @@ Collection of tools for SpiritMS and general MapleStory development
 
 Shortcuts |  |
 ---|---
-[About]()| 
-[Player Commands]()| 
-[Tester Commands]()| 
-[Intern Commands]()| 
-[GM Commands]()| 
-[Admin Commands]()| 
+[About](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#about)| 
+[Player Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#player-level-commands)| 
+[Tester Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#tester-level-commands)| 
+[Intern Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#intern-level-commands)| 
+[GM Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#gamemaster-level-commands)| 
+[Admin Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#gamemaster-level-commands)| 
 
     - List of all commands found in SpiritMS as well as SwordieMS
 ---
