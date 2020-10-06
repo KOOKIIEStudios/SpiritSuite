@@ -21,6 +21,8 @@ Type | Level
 
 ## Player level commands:
 
+NOTE: Regular player commands (which use the `@` prefix instead of `!`) are excluded from this list.
+
 **!map**\
 Inherited from SwordieMS. Level: **Player**
 >Prints a System Notice of all characters in the user’s map
