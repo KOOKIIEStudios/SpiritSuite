@@ -11,11 +11,11 @@ Note on account types, and their level of access:
 
 Type | Level
 -----|------
-0x00000000 | **Player**
-0x00000020 | **Tester**
-0x00000008 | **Intern**
-0x00000010 | **GameMaster**
-0x00000010 | **Admin**
+0x00000000 | [**Player**](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#player-level-commands)
+0x00000020 | [**Tester**](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#tester-level-commands)
+0x00000008 | [**Intern**](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#intern-level-commands)
+0x00000010 | [**GameMaster**](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#gamemaster-level-commands)
+0x00000010 | [**Admin**](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#admin-level-commands)
 
 ### PLEASE CREDIT THE AUTHOR IF YOU USE/QUOTE THIS DOCUMENT ELSEWHERE
 
