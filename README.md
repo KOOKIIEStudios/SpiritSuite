@@ -28,8 +28,8 @@ NOTE: This project has been deprecated in favour of a [Flutter approach](https:/
 
     - A GUI implementation of MaplePacketPuller (see below)
 
-\
 
+\
 [MaplePacketPuller](https://github.com/KOOKIIEStudios/MaplePacketPuller)
 
     - Analyses IDA-generated pseudo code for packet structure and opcode (packet header) information
