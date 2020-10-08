@@ -16,6 +16,13 @@ Shortcuts |  |
 
     - List of all commands found in SpiritMS as well as SwordieMS
 ---
+[(IN DEVELOPMENT) Spirit PacketPuller](https://github.com/KOOKIIEStudios/Spirit-PacketPuller) \
+NOTE: This is an experimental Flutter-port of the packet analysis script. 
+
+    - A GUI implementation of MaplePacketPuller (see below)
+
+
+\
 [(DEPRECATED) Spirit PacketPuller](https://github.com/KOOKIIEStudios/Spirit-PacketPuller-OLD) \
 NOTE: This project has been deprecated in favour of a [Flutter approach](https://github.com/KOOKIIEStudios/Spirit-PacketPuller).
 
@@ -23,13 +30,7 @@ NOTE: This project has been deprecated in favour of a [Flutter approach](https:/
 
 
 \
-[(IN DEVELOPMENT) Spirit PacketPuller](https://github.com/KOOKIIEStudios/Spirit-PacketPuller-OLD) \
-NOTE: This is an experimental Flutter-port of the packet analysis script. 
 
-    - A GUI implementation of MaplePacketPuller (see below)
-
-
-\
 [MaplePacketPuller](https://github.com/KOOKIIEStudios/MaplePacketPuller)
 
     - Analyses IDA-generated pseudo code for packet structure and opcode (packet header) information
