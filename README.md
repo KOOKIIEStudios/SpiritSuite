@@ -16,6 +16,12 @@ Shortcuts |  |
 
     - List of all commands found in SpiritMS as well as SwordieMS
 ---
+[MaplestoryDiscBot](https://github.com/Descended/MaplestoryDiscBot)  
+
+    - A Python-based Discord bot designed for MapleStory private servers
+
+
+\
 [Spirit PacketPuller](https://github.com/KOOKIIEStudios/Spirit-PacketPuller) \
 NOTE: This is a Flutter-port of the packet analysis script. 
 
