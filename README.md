@@ -1,5 +1,5 @@
 # SpiritSuite
-Collection of tools for SpiritMS and general MapleStory development
+Collection of tools for SpiritMS and general MapleStory development by **TEAM SPIRIT**
 
 ---
 
@@ -26,6 +26,11 @@ Shortcuts |  |
 
     - A pip-compatible Python package designed for Swordie-based servers
 
+
+\
+[ProjectShieldieDB](https://kookiiestudios.github.io/ProjectShieldieDB/)
+
+    - API Testing and Documentation project for SwordieDB
 
 \
 [Spirit PacketPuller](https://github.com/KOOKIIEStudios/Spirit-PacketPuller) \
@@ -56,3 +61,7 @@ NOTE: This Python-PyQt5-fbs project has been deprecated in favour of a [Flutter 
 [Tool Archive](https://github.com/KOOKIIEStudios/ToolArchive)
 
     - Archive of various unofficial installers, alongside other tools used in the development of Spirit Suite products
+
+---
+## TEAM SPIRIT
+[Brandon Nguyen](https://github.com/Bratah123) • [Amos Chua](https://github.com/KOOKIIEStudios) • [Akshay Jankie](https://github.com/Descended)
