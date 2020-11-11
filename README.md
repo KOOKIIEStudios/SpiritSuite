@@ -22,6 +22,12 @@ Shortcuts |  |
 
 
 \
+[SwordieDB](https://github.com/Bratah123/SwordieDB)
+
+    - A pip-compatible Python package designed for Swordie-based servers
+
+
+\
 [Spirit PacketPuller](https://github.com/KOOKIIEStudios/Spirit-PacketPuller) \
 NOTE: This is a Flutter-port of the packet analysis script. 
 
