@@ -16,19 +16,22 @@ Shortcuts |  |
 
     - List of all commands found in SpiritMS as well as SwordieMS
 ---
-[MaplestoryDiscBot](https://github.com/Descended/MaplestoryDiscBot)  
+[MaplestoryDiscBot Repository](https://github.com/Descended/MaplestoryDiscBot)  
+[MaplestoryDiscBot Wiki](https://github.com/Descended/MaplestoryDiscBot/wiki)  
 
     - A Python-based Discord bot designed for MapleStory private servers
 
 
 \
-[SwordieDB](https://github.com/Bratah123/SwordieDB)
+[SwordieDB Repository](https://github.com/Bratah123/SwordieDB)  
+[SwordieDB Wiki](https://github.com/Bratah123/SwordieDB/wiki)  
 
     - A pip-compatible Python package designed for Swordie-based servers
 
 
 \
-[ProjectShieldieDB](https://kookiiestudios.github.io/ProjectShieldieDB/)
+[SwordieDB API Docs](https://kookiiestudios.github.io/ProjectShieldieDB)  
+[ProjectShieldieDB Repository](https://github.com/KOOKIIEStudios/ProjectShieldieDB)  
 
     - API Testing and Documentation project for SwordieDB
 
