@@ -2,6 +2,7 @@
 Collection of tools for SpiritMS and general MapleStory development by **TEAM SPIRIT**
 
 ---
+### Commands List (Swordie-based)
 
 [SpiritMS Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md)
 
@@ -15,7 +16,14 @@ Shortcuts |  |
 [Admin Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#admin-level-commands)| 
 
     - List of all commands found in SpiritMS as well as SwordieMS
+    
 ---
+### ID List (Generic)
+[MapleStory Job IDs](https://github.com/TEAM-SPIRIT-Productions/MapleStoryJobIDs)
+    
+    - List of all Job IDs in MapleStory
+---
+### Discord Bots (Generic)
 [MaplestoryDiscBot Repository](https://github.com/Descended/MaplestoryDiscBot)  
 [MaplestoryDiscBot Wiki](https://github.com/Descended/MaplestoryDiscBot/wiki)  
 
@@ -36,6 +44,14 @@ Shortcuts |  |
     - API Testing and Documentation project for SwordieDB
 
 \
+[(In-Development) Lazuli API Docs](https://github.com/TEAM-SPIRIT-Productions/Lazuli/wiki)  
+[(In-Development) Lazuli Repository](https://github.com/TEAM-SPIRIT-Productions/Lazuli)  
+
+    - A pip-compatible Python package designed for Azure-based servers  
+  
+  
+---
+### RE Tools (Generic)
 [Spirit PacketPuller](https://github.com/KOOKIIEStudios/Spirit-PacketPuller) \
 NOTE: This is a Flutter-port of the packet analysis script. 
 
@@ -54,13 +70,16 @@ NOTE: This Python-PyQt5-fbs project has been deprecated in favour of a [Flutter 
 [MaplePacketPuller](https://github.com/KOOKIIEStudios/MaplePacketPuller)
 
     - Analyses IDA-generated pseudocode for packet structure and opcode (packet header) information
----
+
+
+\
 [SpiritIDAPlugin](https://github.com/Bratah123/SpiritIDAPlugin)
 
     - Save IDA-generated pseudocode to text file or analyse in-programme.
       Can be used alongside Spirit PacketPuller for batch analysis.
     
 ---
+### Others
 [Tool Archive](https://github.com/KOOKIIEStudios/ToolArchive)
 
     - Archive of various unofficial installers, alongside other tools used in the development of Spirit Suite products
