@@ -28,6 +28,7 @@ Shortcuts |  |
 [MaplestoryDiscBot Wiki](https://github.com/Descended/MaplestoryDiscBot/wiki)  
 
     - A Python-based Discord bot designed for MapleStory private servers
+      Best used with Heaven-based servers
 
 
 \
@@ -44,8 +45,9 @@ Shortcuts |  |
     - API Testing and Documentation project for SwordieDB
 
 \
-[(In-Development) Lazuli API Docs](https://github.com/TEAM-SPIRIT-Productions/Lazuli/wiki)  
 [(In-Development) Lazuli Repository](https://github.com/TEAM-SPIRIT-Productions/Lazuli)  
+[(In-Development) Lazuli Wiki](https://github.com/TEAM-SPIRIT-Productions/Lazuli/wiki)  
+[(Dead Link) Lazuli API Docs]()  
 
     - A pip-compatible Python package designed for Azure-based servers  
   
@@ -60,10 +62,10 @@ NOTE: This is a Flutter-port of the packet analysis script.
 
 
 \
-[(DEPRECATED) Spirit PacketPuller OLD](https://github.com/KOOKIIEStudios/Spirit-PacketPuller-OLD) \
+<del>[(DEPRECATED) Spirit PacketPuller OLD](https://github.com/KOOKIIEStudios/Spirit-PacketPuller-OLD)</del> \
 NOTE: This Python-PyQt5-fbs project has been deprecated in favour of a [Flutter approach](https://github.com/KOOKIIEStudios/Spirit-PacketPuller).
 
-    - A GUI implementation of MaplePacketPuller (see below)
+    - A GUI implementation of MaplePacketPuller
 
 
 \
