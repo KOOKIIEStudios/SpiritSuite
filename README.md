@@ -1,5 +1,14 @@
 # SpiritSuite
-Collection of tools for SpiritMS and general MapleStory development by **TEAM SPIRIT**
+A collection of tools for SpiritMS and general MapleStory development by **TEAM SPIRIT**  
+|  | **Table of Contents:** |  |
+---|---|---
+1 | [Commands List](https://github.com/KOOKIIEStudios/SpiritSuite#commands-list-swordie-based) | Admin commands cheatsheet for Swordie-based sources
+2 | [ID List](https://github.com/KOOKIIEStudios/SpiritSuite#id-list-generic) | Cheatsheet for game-related IDs (e.g. Job IDs)
+3 | [Discord Bots](https://github.com/KOOKIIEStudios/SpiritSuite#discord-bots-generic) | Discord bot projects and other interactive APIs
+4 | [In-Game Tools](https://github.com/KOOKIIEStudios/SpiritSuite#in-game-tools-generic) | Scripts that may facilitate gameplay
+5 | [RE Tools](https://github.com/KOOKIIEStudios/SpiritSuite#re-tools-generic) | Reverse engineering tools
+6 | [Others](https://github.com/KOOKIIEStudios/SpiritSuite#others) | AOB
+7 | [The Team](https://github.com/KOOKIIEStudios/SpiritSuite#team-spirit) | **TEAM SPIRIT**
 
 ---
 ### Commands List (Swordie-based)
