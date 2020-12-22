@@ -68,7 +68,10 @@ Shortcuts |  |
 [BattleAnalysis176](https://github.com/Bratah123/BattleAnalysis176)  
 
     - A C++ Console Program that calculates Maplestory's in games stats after a certain time.
-  
+
+[MapleRuneSolver](https://github.com/Bratah123/MapleRuneSolver)
+
+    - A vision-based Rune solver, used for MapleStory versions that have static arrow images.
   
 ---
 ### RE Tools (Generic)
