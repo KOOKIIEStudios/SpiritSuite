@@ -24,47 +24,47 @@ Type | Level
 NOTE: Regular player commands (which use the `@` prefix instead of `!`) are excluded from this list.
 
 **!map**\
-Inherited from SwordieMS. Level: **Player**
+Inherited from Swordie. Level: **Player**
 >Prints a System Notice of all characters in the user’s map
 
 ## Tester level commands:
 
 **!showinvinfo**\
 **!invinfo**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Prints out the name, generic item ID, specific item ID, bag index, and inventory type, for every item in inventory, in the user’s chatbox. (Presumably for debug purposes)
 
 \
 **!checkid**\
 **!getid**\
 **!charid**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Prints out the user’s character ID and account ID, in the user’s chatbox. (Presumably for debug purposes)
 
 \
 **!getphantomstolenskills**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Prints out skills the user has stolen as a Phantom, in the user’s chatbox. (Presumably for debug purposes)
 
 \
 **!stealskilllist**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Steals every skill. (Presumably for debug purposes)
 
 \
 **!np**\
 **!nearestportal**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Prints out map and portal information (within 30 pixels) for the map the user is in, in the user’s chatbox. (Presumably for debug purposes)
 
 \
 **!stats**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Prints out the user’s stats, in the user’s chatbox. (Presumably for debug purposes)
 
 \
 **!testdrop**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |  |
 ---|---|---
@@ -74,18 +74,18 @@ Format: |  |  |
 
 \
 **!done**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Sets level to 235, HP/MP to 250,000, stats to 1000
 
 \
 **!hypertp**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Gives the user a Hyper Teleport Rock
 
 \
 **!job**\
 **!setjob**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -96,7 +96,7 @@ Format: |  |
 \
 **!sp**\
 **!setsp**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -107,7 +107,7 @@ Format: |  |
 \
 **!ap**\
 **!setap**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -118,7 +118,7 @@ Format: |  |
 \
 **!hp**\
 **!sethp**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -129,7 +129,7 @@ Format: |  |
 \
 **!mp**\
 **!setmp**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -140,7 +140,7 @@ Format: |  |
 \
 **!str**\
 **!setstr**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -151,7 +151,7 @@ Format: |  |
 \
 **!dex**\
 **!setdex**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -162,7 +162,7 @@ Format: |  |
 \
 **!int**\
 **!setint**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -173,7 +173,7 @@ Format: |  |
 \
 **!lukv**\
 **!setluk**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -186,7 +186,7 @@ Format: |  |
 **!setlevel**\
 **!lvl**\
 **!lv**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -199,7 +199,7 @@ Format: |  |
 \
 **!leveluntil**\
 **!levelupuntil**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -209,7 +209,7 @@ Format: |  |
 
 \
 **!heal**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -218,7 +218,7 @@ Format: |  |
 
 \
 **!curhp**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -227,7 +227,7 @@ Format: |  |
 
 \
 **!curmp**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -236,12 +236,12 @@ Format: |  |
 
 \
 **!invincible**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Toggles the user’s invincibility.
 
 \
 **!morph**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -250,7 +250,7 @@ Format: |  |
 
 \
 **!mount**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -259,12 +259,12 @@ Format: |  |
 
 \
 **!testtempstat**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >No idea what this does. Does something to the stats of the mobs in the user’s map.
 
 \
 **!setmap**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -273,7 +273,7 @@ Format: |  |
 
 \
 **!setportal**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -282,7 +282,7 @@ Format: |  |
 
 \
 **!getskill**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |  |  |
 ---|---|---|---
@@ -291,7 +291,7 @@ Format: |  |  |  |
 
 \
 **!maxskills**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Max skills for non-Evan classes.\
 (Buggy tester command using janky/hacky logic)
 
@@ -299,7 +299,7 @@ Inherited from SwordieMS. Level: **Tester**
 **!lookup**\
 **!find**\
 **!search**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |  |
 ---|---|---
@@ -315,7 +315,7 @@ Prints search result in the user’s chatbox.
 \
 **!nx**\
 **!setnx**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -326,7 +326,7 @@ Format: |  |
 \
 **!dp**\
 **!setdp**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -337,7 +337,7 @@ Format: |  |
 \
 **!vp**\
 **!setvp**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -347,7 +347,7 @@ Format: |  |
 
 \
 **!goto**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -361,7 +361,7 @@ Format: |  |
 
 \
 **!savemap**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -378,32 +378,32 @@ Format: |  |
 
 \
 **!warriorequips**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Gives the user a set of warrior equips.
 
 \
 **!mageequips**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Gives the user a set of mage equips.
 
 \
 **!archerequips**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Gives the user a set of bowmen equips.
 
 \
 **!thiefequips**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Gives the user a set of thief equips.
 
 \
 **!pirateequips**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Gives the user a set of pirate equips.
 
 \
 **!clearinv**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |  |  |
 ---|---|---|---
@@ -420,13 +420,13 @@ Level: **Tester**
 
 \
 **!mobinfo**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Prints information about the nearest mob.\
 (Range of 100 pixels - see **!tag** for information about range)
 
 \
 **!completequest**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -435,7 +435,7 @@ Format: |  |
 
 \
 **!removequest**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -445,7 +445,7 @@ Format: |  |
 \
 **!sethonor**\
 **!honor**\
-Inherited from SwordieMS. Level: **Tester**\
+Inherited from Swordie. Level: **Tester**\
 
 Format: |  |
 ---|---
@@ -455,7 +455,7 @@ Format: |  |
 
 \
 **!startquest**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -466,28 +466,28 @@ Format: |  |
 **!bypassskillcd**\
 **!ignoreskillcd**\
 **!bypasskillcd**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Resets skill cooldowns for the user.
 
 \
 **!toggledamagecap**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Self-explanatory.
 
 \
 **!shop**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Brings up a universal shop (ID: 1011100)
 
 \
 **!mobstat**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Sets the stats of the mobs in the user’s map to 1000. (Presumably for debug purposes)
 
 \
 **!fp**
 **!findportal**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -499,12 +499,12 @@ Format: |  |
 
 \
 **!showbuffs**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Prints the user’s currently applied buffs in the user’s chatbox.
 
 \
 **!tohex**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -513,7 +513,7 @@ Format: |  |
 
 \
 **!fromhex**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |
 ---|---
@@ -523,12 +523,12 @@ Format: |  |
 \
 **!lookupreactor**\
 **!reactors**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 >Prints the list of reactors in the user’s map.
 
 \
 **!script**\
-Inherited from SwordieMS. Level: **Tester**
+Inherited from Swordie. Level: **Tester**
 
 Format: |  |  |
 ---|---|---
@@ -546,12 +546,12 @@ Level: **GameMaster**
 
 \
 **!forceevent**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 >Presumably to force start the next automatic event.
 
 \
 **!spawn**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |  |  |
 ---|---|---|---
@@ -630,7 +630,7 @@ Format: |  |
 
 \
 **!pnpc**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: | |
 ---|---
@@ -639,12 +639,12 @@ Format: | |
 
 \
 **!forcechase**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 >Makes mobs in the user’s map chase the user.
 
 \
 **!setcontroller**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |
 ---|---
@@ -663,7 +663,7 @@ Adds the specified amount of trait exp to the specified trait.
 
 \
 **!mobcontroller**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |
 ---|---
@@ -672,7 +672,7 @@ Format: |  |
 
 \
 **!proitem**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |  |  |  |
 ---|---|---|---|---
@@ -684,7 +684,7 @@ Flames: Boss Damage %, IED %, All Stat %
 \
 **!getitem**\
 **!item**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |  |  |
 ---|---|---|---
@@ -701,7 +701,7 @@ Format: |  |  |  |
 \
 **!mesos**\
 **!money**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |
 ---|---
@@ -712,7 +712,7 @@ Format: |  |
 \
 **!ld**\
 **!liedetector**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |
 ---|---
@@ -726,7 +726,7 @@ Format: |  |
 
 \
 **!ban**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |  |  |  |
 ---|---|---|---|---
@@ -737,12 +737,12 @@ Bans the specified user for the specified duration, and records the reason for b
 
 \
 **!killmobs**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 >Kills all mobs in the user’s map. (Drops disabled)
 
 \
 **!givenx**\
-Inherited from SwordieMS. Level: **GameMaster**
+Inherited from Swordie. Level: **GameMaster**
 
 Format: |  |  |
 ---|---|---
@@ -785,12 +785,12 @@ Level: **GameMaster**
 ## Admin level commands:
 
 **!test**\
-Inherited from SwordieMS. Level: **Admin**
+Inherited from Swordie. Level: **Admin**
 >Some kind of skill effect shows - presumably to let you know if Admin-level commands can be issued. (Presumably for debug purposes)
 
 \
 **!packet**\
-Inherited from SwordieMS. Level: **Admin**
+Inherited from Swordie. Level: **Admin**
 
 Format: |  |  |
 ---|---|---
@@ -800,23 +800,23 @@ Format: |  |  |
 \
 **!testcts**\
 **!cts**\
-Inherited from SwordieMS. Level: **Admin**
+Inherited from Swordie. Level: **Admin**
 >Presumably gives a buff in the form of Kaiser’s Final Trance, that sets a bunch of temporary stats to 0. (Presumably for debug purposes)
 
 \
 **!atom**\
-Inherited from SwordieMS. Level: **Admin**
+Inherited from Swordie. Level: **Admin**
 >No idea what this does. Does something to the stats of the mobs in the user’s map.
 
 \
 **!clearcache**\
-Inherited from SwordieMS. Level: **Admin**
+Inherited from Swordie. Level: **Admin**
 >Stops active scripts the user has running, and clear server cache (recursive for Worlds).\
 Cache includes: Drop, Field, Item, Mob, NPC, Quest, Skill, Reactor.
 
 \
 **!reloadcs**\
-Inherited from SwordieMS. Level: **Admin**
+Inherited from Swordie. Level: **Admin**
 >Reloads the Cash Shop (Affects: server-wide)
 
 \
