@@ -24,7 +24,7 @@ Shortcuts |  |
 [GM Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#gamemaster-level-commands)| 
 [Admin Commands](https://github.com/KOOKIIEStudios/SpiritSuite/blob/main/SPIRITCOMMANDS.md#admin-level-commands)| 
 
-    - List of all commands found in SpiritMS as well as SwordieMS
+    - List of all commands found in SpiritMS as well as Swordie
     
 ---
 ### ID List (Generic)
