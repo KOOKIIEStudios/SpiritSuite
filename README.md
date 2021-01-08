@@ -33,6 +33,13 @@ Shortcuts |  |
     - List of all Job IDs in MapleStory
 ---
 ### Discord Bots (Generic)
+[Project Lapis](https://github.com/TEAM-SPIRIT-Productions/Lapis)
+[Project Lapis Wiki](https://github.com/TEAM-SPIRIT-Productions/Lapis/wiki)
+
+    - Lapis is a Plug-n-Play Azure v316 Discord Bot that is powered by Lazuli and discord.py.
+
+
+\
 [MaplestoryDiscBot Repository](https://github.com/Descended/MaplestoryDiscBot)  
 [MaplestoryDiscBot Wiki](https://github.com/Descended/MaplestoryDiscBot/wiki)  
 
