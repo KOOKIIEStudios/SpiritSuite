@@ -40,6 +40,13 @@ Shortcuts |  |
 
 
 \
+[TypeLapis](https://github.com/Bratah123/TypeLapis)  
+
+    - Lapis is a Plug-n-Play Azure v316 Discord Bot that is powered by Lazuli and discord.py.
+      TypeLapis is a TypeScript port of Project Lapis
+
+
+\
 [MaplestoryDiscBot Repository](https://github.com/Descended/MaplestoryDiscBot)  
 [MaplestoryDiscBot Wiki](https://github.com/Descended/MaplestoryDiscBot/wiki)  
 
