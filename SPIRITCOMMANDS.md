@@ -2,7 +2,7 @@
 
 ## About
 **Date of Creation:** 19/8/2020  
-**Date last Updated:** 26/11/2021  
+**Date last Updated:** 13/12/2021  
 
 **Author:** KOOKIIE  
 **Maintained by:** KOOKIIE  
@@ -515,7 +515,7 @@ Format: |  |  |
 >Gives the user the specified guild skill, with the specified level.
 
 \
-**!sethonor**
+**!sethonor**\
 **!honor**\
 Inherited from Swordie. Level: **Tester**\
 
@@ -557,7 +557,7 @@ Inherited from Swordie. Level: **Tester**
 >Sets the stats of one of the mobs in the user’s map to 1000, with level set to 1, and skillid/itemid/mobskillid set to 145. (Presumably for debug purposes)
 
 \
-**!fp**
+**!fp**\
 **!findportal**\
 Inherited from Swordie. Level: **Tester**
 
@@ -575,7 +575,7 @@ Inherited from Swordie. Level: **Tester**
 >Prints the user’s currently applied buffs in the user’s chatbox.
 
 \
-**!roleplay**
+**!roleplay**\
 Level: **Tester**
 
 Format: |  |
