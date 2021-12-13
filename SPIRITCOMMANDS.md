@@ -759,6 +759,26 @@ Format: |  |
 >Sets the number of times the user has crafted Blue Soul Shards to the specified quantity.
 
 \
+**!expcraftcount**\
+**!expwashcraftcount**\
+**!expwash**\
+Level: **Tester**
+>Returns the number of times the user has crafted Yellow Soul Shards.
+
+\
+**!setexpcraftcount**\
+**!setexpwashcraftcount**\
+**!setexpwash**\
+Level: **Tester**
+
+Format: |  |
+:---|---
+**!setexpcraftcount** | **\<amount\>**
+**!setexpwashcraftcount** | **\<amount\>**
+**!setexpwash** | **\<amount\>**
+>Sets the number of times the user has crafted Yellow Soul Shards to the specified quantity.
+
+\
 **!randomemotion**\
 Level: **Tester**
 >The user will start using a random emotion.
@@ -1220,6 +1240,11 @@ Format: |  |  |
 **!cts**\
 Inherited from Swordie. Level: **Admin**
 >Presumably gives a buff in the form of Kaiser’s Final Trance, that sets a bunch of temporary stats to 0. (Presumably for debug purposes)
+
+\
+**!testtempstat**\
+Inherited from Swordie. Level: **Admin**
+>No idea what this does. Appears to set the stats of one of the mobs in the map to 0. (Presumably for debug purposes)
 
 \
 **!atom**\
