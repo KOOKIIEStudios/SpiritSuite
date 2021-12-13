@@ -200,7 +200,7 @@ Format: |  |
 >Set the user’s INT to the specified amount.
 
 \
-**!lukv**\
+**!luk**\
 **!setluk**\
 Inherited from Swordie. Level: **Tester**
 
